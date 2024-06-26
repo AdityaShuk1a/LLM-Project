@@ -14,7 +14,9 @@ from langchain.vectorstores import FAISS
 from dotenv import load_dotenv
 
 load_dotenv()  
-api_key = os.getenv('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')
+api_key = os.getenv('OPENAI_API_KEY')
+
+
 
 
 st.title("UPSC Current Affairs Interpreter 📰")
