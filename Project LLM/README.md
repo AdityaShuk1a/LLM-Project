@@ -1,4 +1,4 @@
-
+I created this project by understanding a tutorial from a YouTuber.
 ## Features
 
 - Load URLs or upload text files containing URLs to fetch article content.
